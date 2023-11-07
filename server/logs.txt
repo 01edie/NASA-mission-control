@@ -1,0 +1,406 @@
+C:\Users\edi\Desktop\zone\ztm-node\NASA-mission-control\server\data\kepler_data.csv
+C:\Users\edi\Desktop\zone\ztm-node\NASA-mission-control\server\data\kepler_data.csv
+C:\Users\edi\Desktop\zone\ztm-node\NASA-mission-control\server\data\kepler_data.csv
+C:\Users\edi\Desktop\zone\ztm-node\NASA-mission-control\server\data\kepler_data.csv
+C:\Users\edi\Desktop\zone\ztm-node\NASA-mission-control\server\data\kepler_data.csv
+C:\Users\edi\Desktop\zone\ztm-node\NASA-mission-control\server\data\kepler_data.csv
+..............................................
+scanning complete
+..............................................
+4 potential habitable planets found!
+listening at port: 8000
+..............................................
+scanning complete
+..............................................
+4 potential habitable planets found!
+listening at port: 8000
+..............................................
+scanning complete
+..............................................
+4 potential habitable planets found!
+listening at port: 8000
+C:\Users\edi\Desktop\zone\ztm-node\NASA-mission-control\server\data\kepler_data.csv
+..............................................
+scanning complete
+..............................................
+4 potential habitable planets found!
+listening at port: 8000
+..............................................
+scanning complete
+..............................................
+4 potential habitable planets found!
+listening at port: 8000
+..............................................
+scanning complete
+..............................................
+4 potential habitable planets found!
+listening at port: 8000
+C:\Users\edi\Desktop\zone\ztm-node\NASA-mission-control\server\data\kepler_data.csv
+..............................................
+scanning complete
+..............................................
+4 potential habitable planets found!
+listening at port: 8000
+..............................................
+scanning complete
+..............................................
+4 potential habitable planets found!
+listening at port: 8000
+::1 - - [28/Oct/2023:05:27:44 +0000] "GET / HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:27:44 +0000] "GET /static/js/main.c041c51e.js HTTP/1.1" 200 473295 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:27:45 +0000] "GET /sound/click.mp3 HTTP/1.1" 200 2688 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:27:45 +0000] "GET /sound/typing.mp3 HTTP/1.1" 200 5760 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:27:45 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 200 5376 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:27:45 +0000] "GET /sound/success.mp3 HTTP/1.1" 200 98497 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:27:45 +0000] "GET /sound/warning.mp3 HTTP/1.1" 200 28800 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:27:45 +0000] "GET /sound/abort.mp3 HTTP/1.1" 200 11548 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:27:45 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:27:45 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:27:45 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:27:45 +0000] "GET /favicon.png HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:27:45 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:29:20 +0000] "GET /manifest.json HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:29:23 +0000] "GET /static/js/main.c041c51e.js.map HTTP/1.1" 200 1673461 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:29:34 +0000] "GET / HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:29:35 +0000] "GET /static/js/main.c041c51e.js HTTP/1.1" 200 473295 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:29:35 +0000] "GET /sound/click.mp3 HTTP/1.1" 200 2688 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:29:35 +0000] "GET /sound/typing.mp3 HTTP/1.1" 200 5760 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:29:35 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 200 5376 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:29:35 +0000] "GET /sound/warning.mp3 HTTP/1.1" 200 28800 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:29:35 +0000] "GET /sound/success.mp3 HTTP/1.1" 200 98497 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:29:35 +0000] "GET /sound/abort.mp3 HTTP/1.1" 200 11548 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:29:35 +0000] "GET /static/js/main.c041c51e.js.map HTTP/1.1" 200 1673461 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:29:35 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:29:35 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:29:35 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:29:35 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:29:35 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:30:32 +0000] "GET / HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:30:32 +0000] "GET /static/js/main.c041c51e.js HTTP/1.1" 200 473295 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:30:33 +0000] "GET /sound/click.mp3 HTTP/1.1" 200 2688 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:30:33 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 200 5376 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:30:33 +0000] "GET /sound/abort.mp3 HTTP/1.1" 200 11548 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:30:33 +0000] "GET /sound/typing.mp3 HTTP/1.1" 200 5760 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:30:33 +0000] "GET /sound/success.mp3 HTTP/1.1" 200 98497 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:30:33 +0000] "GET /sound/warning.mp3 HTTP/1.1" 200 28800 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:30:33 +0000] "GET /static/js/main.c041c51e.js.map HTTP/1.1" 200 1673461 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:30:33 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:30:33 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:30:33 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:30:33 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:30:33 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:41:08 +0000] "GET / HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:41:09 +0000] "GET /static/js/main.c041c51e.js HTTP/1.1" 200 473295 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:41:09 +0000] "GET /sound/click.mp3 HTTP/1.1" 200 2688 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:41:09 +0000] "GET /sound/typing.mp3 HTTP/1.1" 200 5760 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:41:09 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 200 5376 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:41:09 +0000] "GET /sound/abort.mp3 HTTP/1.1" 200 11548 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:41:09 +0000] "GET /sound/success.mp3 HTTP/1.1" 200 98497 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:41:09 +0000] "GET /sound/warning.mp3 HTTP/1.1" 200 28800 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:41:09 +0000] "GET /static/js/main.c041c51e.js.map HTTP/1.1" 200 1673461 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:41:09 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:41:09 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:41:09 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:41:10 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:41:10 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:41:48 +0000] "GET / HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:41:48 +0000] "GET /static/js/main.c041c51e.js HTTP/1.1" 200 473295 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:41:48 +0000] "GET /sound/click.mp3 HTTP/1.1" 200 2688 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:41:48 +0000] "GET /sound/abort.mp3 HTTP/1.1" 200 11548 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:41:48 +0000] "GET /sound/typing.mp3 HTTP/1.1" 200 5760 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:41:48 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 200 5376 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:41:48 +0000] "GET /sound/warning.mp3 HTTP/1.1" 200 28800 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:41:48 +0000] "GET /sound/success.mp3 HTTP/1.1" 200 98497 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:41:48 +0000] "GET /static/js/main.c041c51e.js.map HTTP/1.1" 200 1673461 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:41:48 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:41:48 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:41:48 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:41:49 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:41:49 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:8000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+C:\Users\edi\Desktop\zone\ztm-node\NASA-mission-control\server\data\kepler_data.csv
+C:\Users\edi\Desktop\zone\ztm-node\NASA-mission-control\server\data\kepler_data.csv
+..............................................
+scanning complete
+..............................................
+4 potential habitable planets found!
+..............................................
+listening at port: 5000
+scanning complete
+..............................................
+4 potential habitable planets found!
+listening at port: 5000
+C:\Users\edi\Desktop\zone\ztm-node\NASA-mission-control\server\data\kepler_data.csv
+C:\Users\edi\Desktop\zone\ztm-node\NASA-mission-control\server\data\kepler_data.csv
+..............................................
+scanning complete
+..............................................
+4 potential habitable planets found!
+listening at port: 5000
+..............................................
+scanning complete
+..............................................
+4 potential habitable planets found!
+listening at port: 5000
+C:\Users\edi\Desktop\zone\ztm-node\NASA-mission-control\server\data\kepler_data.csv
+C:\Users\edi\Desktop\zone\ztm-node\NASA-mission-control\server\data\kepler_data.csv
+..............................................
+scanning complete
+..............................................
+4 potential habitable planets found!
+listening at port: 5000
+..............................................
+scanning complete
+..............................................
+4 potential habitable planets found!
+listening at port: 5000
+C:\Users\edi\Desktop\zone\ztm-node\NASA-mission-control\server\data\kepler_data.csv
+C:\Users\edi\Desktop\zone\ztm-node\NASA-mission-control\server\data\kepler_data.csv
+..............................................
+scanning complete
+..............................................
+4 potential habitable planets found!
+listening at port: 5000
+..............................................
+scanning complete
+..............................................
+4 potential habitable planets found!
+listening at port: 5000
+::1 - - [28/Oct/2023:05:42:28 +0000] "GET / HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:42:28 +0000] "GET /static/js/main.c041c51e.js HTTP/1.1" 200 473295 "http://localhost:5000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:42:28 +0000] "GET /sound/click.mp3 HTTP/1.1" 200 2688 "http://localhost:5000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:42:28 +0000] "GET /sound/typing.mp3 HTTP/1.1" 200 5760 "http://localhost:5000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:42:28 +0000] "GET /sound/warning.mp3 HTTP/1.1" 200 28800 "http://localhost:5000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:42:28 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 200 5376 "http://localhost:5000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:42:28 +0000] "GET /sound/abort.mp3 HTTP/1.1" 200 11548 "http://localhost:5000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:42:28 +0000] "GET /sound/success.mp3 HTTP/1.1" 200 98497 "http://localhost:5000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:42:28 +0000] "GET /static/js/main.c041c51e.js.map HTTP/1.1" 200 1673461 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:42:28 +0000] "GET /launches HTTP/1.1" 200 201 "http://localhost:5000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:42:28 +0000] "GET /planets HTTP/1.1" 200 4927 "http://localhost:5000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:42:28 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:5000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:42:28 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:5000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:42:28 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:5000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:42:28 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:5000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+{}
+::1 - - [28/Oct/2023:05:43:22 +0000] "POST /launches HTTP/1.1" 400 55 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:45:18 +0000] "GET /launch HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:45:18 +0000] "GET /static/js/main.c041c51e.js HTTP/1.1" 200 473295 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:45:19 +0000] "GET /sound/click.mp3 HTTP/1.1" 200 2688 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:45:19 +0000] "GET /sound/typing.mp3 HTTP/1.1" 200 5760 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:45:19 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 200 5376 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:45:19 +0000] "GET /sound/warning.mp3 HTTP/1.1" 200 28800 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:45:19 +0000] "GET /sound/abort.mp3 HTTP/1.1" 200 11548 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:45:19 +0000] "GET /static/js/main.c041c51e.js.map HTTP/1.1" 200 1673461 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:45:19 +0000] "GET /sound/success.mp3 HTTP/1.1" 200 98497 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:45:19 +0000] "GET /launches HTTP/1.1" 200 201 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:45:19 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:45:19 +0000] "GET /planets HTTP/1.1" 200 4927 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:45:19 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:45:19 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:45:19 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:45:19 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:45:25 +0000] "GET /launch HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:45:25 +0000] "GET /static/js/main.c041c51e.js HTTP/1.1" 200 473295 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:45:26 +0000] "GET /sound/click.mp3 HTTP/1.1" 200 2688 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:45:26 +0000] "GET /sound/typing.mp3 HTTP/1.1" 200 5760 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:45:26 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 200 5376 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:45:26 +0000] "GET /sound/warning.mp3 HTTP/1.1" 200 28800 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:45:26 +0000] "GET /sound/abort.mp3 HTTP/1.1" 200 11548 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:45:26 +0000] "GET /sound/success.mp3 HTTP/1.1" 200 98497 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:45:26 +0000] "GET /static/js/main.c041c51e.js.map HTTP/1.1" 200 1673461 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:45:26 +0000] "GET /launches HTTP/1.1" 200 201 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:45:26 +0000] "GET /planets HTTP/1.1" 200 4927 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:45:26 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:45:26 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:45:26 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:45:26 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:45:26 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+{}
+::1 - - [28/Oct/2023:05:45:31 +0000] "POST /launches HTTP/1.1" 400 55 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+C:\Users\edi\Desktop\zone\ztm-node\NASA-mission-control\server\data\kepler_data.csv
+C:\Users\edi\Desktop\zone\ztm-node\NASA-mission-control\server\data\kepler_data.csv
+..............................................
+scanning complete
+..............................................
+4 potential habitable planets found!
+listening at port: 5000
+..............................................
+scanning complete
+..............................................
+4 potential habitable planets found!
+listening at port: 5000
+C:\Users\edi\Desktop\zone\ztm-node\NASA-mission-control\server\data\kepler_data.csv
+C:\Users\edi\Desktop\zone\ztm-node\NASA-mission-control\server\data\kepler_data.csv
+..............................................
+scanning complete
+..............................................
+4 potential habitable planets found!
+listening at port: 5000
+..............................................
+scanning complete
+..............................................
+4 potential habitable planets found!
+listening at port: 5000
+C:\Users\edi\Desktop\zone\ztm-node\NASA-mission-control\server\data\kepler_data.csv
+C:\Users\edi\Desktop\zone\ztm-node\NASA-mission-control\server\data\kepler_data.csv
+..............................................
+scanning complete
+..............................................
+4 potential habitable planets found!
+listening at port: 5000
+..............................................
+scanning complete
+..............................................
+4 potential habitable planets found!
+listening at port: 5000
+C:\Users\edi\Desktop\zone\ztm-node\NASA-mission-control\server\data\kepler_data.csv
+C:\Users\edi\Desktop\zone\ztm-node\NASA-mission-control\server\data\kepler_data.csv
+..............................................
+scanning complete
+..............................................
+4 potential habitable planets found!
+listening at port: 5000
+..............................................
+scanning complete
+..............................................
+4 potential habitable planets found!
+listening at port: 5000
+::1 - - [28/Oct/2023:05:47:29 +0000] "GET /launch HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:47:30 +0000] "GET /static/js/main.c041c51e.js HTTP/1.1" 200 473295 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:47:30 +0000] "GET /sound/click.mp3 HTTP/1.1" 200 2688 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:47:30 +0000] "GET /sound/typing.mp3 HTTP/1.1" 200 5760 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:47:30 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 200 5376 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:47:30 +0000] "GET /sound/success.mp3 HTTP/1.1" 200 98497 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:47:30 +0000] "GET /sound/abort.mp3 HTTP/1.1" 200 11548 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:47:30 +0000] "GET /sound/warning.mp3 HTTP/1.1" 200 28800 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:47:30 +0000] "GET /static/js/main.c041c51e.js.map HTTP/1.1" 200 1673461 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:47:30 +0000] "GET /launches HTTP/1.1" 200 201 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:47:30 +0000] "GET /planets HTTP/1.1" 200 4927 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:47:30 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:47:30 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:47:30 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:47:30 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:47:30 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+body {}
+::1 - - [28/Oct/2023:05:47:35 +0000] "POST /launches HTTP/1.1" 400 55 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+C:\Users\edi\Desktop\zone\ztm-node\NASA-mission-control\server\data\kepler_data.csv
+C:\Users\edi\Desktop\zone\ztm-node\NASA-mission-control\server\data\kepler_data.csv
+C:\Users\edi\Desktop\zone\ztm-node\NASA-mission-control\server\data\kepler_data.csv
+C:\Users\edi\Desktop\zone\ztm-node\NASA-mission-control\server\data\kepler_data.csv
+C:\Users\edi\Desktop\zone\ztm-node\NASA-mission-control\server\data\kepler_data.csv
+..............................................
+scanning complete
+..............................................
+4 potential habitable planets found!
+listening at port: 5000
+..............................................
+scanning complete
+..............................................
+4 potential habitable planets found!
+listening at port: 5000
+C:\Users\edi\Desktop\zone\ztm-node\NASA-mission-control\server\data\kepler_data.csv
+..............................................
+C:\Users\edi\Desktop\zone\ztm-node\NASA-mission-control\server\data\kepler_data.csv
+scanning complete
+..............................................
+4 potential habitable planets found!
+listening at port: 5000
+..............................................
+scanning complete
+..............................................
+4 potential habitable planets found!
+listening at port: 5000
+..............................................
+scanning complete
+..............................................
+4 potential habitable planets found!
+listening at port: 5000
+C:\Users\edi\Desktop\zone\ztm-node\NASA-mission-control\server\data\kepler_data.csv
+..............................................
+scanning complete
+..............................................
+4 potential habitable planets found!
+listening at port: 5000
+..............................................
+scanning complete
+..............................................
+4 potential habitable planets found!
+listening at port: 5000
+..............................................
+scanning complete
+..............................................
+4 potential habitable planets found!
+listening at port: 5000
+::1 - - [28/Oct/2023:05:49:31 +0000] "GET /launch HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:49:31 +0000] "GET /static/js/main.ce43dadc.js HTTP/1.1" 200 473761 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:49:32 +0000] "GET /sound/click.mp3 HTTP/1.1" 200 2688 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:49:32 +0000] "GET /sound/typing.mp3 HTTP/1.1" 200 5760 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:49:32 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 200 5376 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:49:32 +0000] "GET /sound/warning.mp3 HTTP/1.1" 200 28800 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:49:32 +0000] "GET /sound/abort.mp3 HTTP/1.1" 200 11548 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:49:32 +0000] "GET /sound/success.mp3 HTTP/1.1" 200 98497 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:49:32 +0000] "GET /static/js/main.ce43dadc.js.map HTTP/1.1" 200 1674158 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:49:32 +0000] "GET /launches HTTP/1.1" 200 201 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:49:32 +0000] "GET /planets HTTP/1.1" 200 4927 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:49:32 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:49:32 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:49:32 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:49:32 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:49:32 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+body {
+  launchDate: '2023-10-28T00:00:00.000Z',
+  mission: 'Hello New World',
+  rocket: 'Explorer IS1',
+  target: 'Kepler-296 A f'
+}
+::1 - - [28/Oct/2023:05:49:36 +0000] "POST /launches HTTP/1.1" 201 206 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:49:36 +0000] "GET /launches HTTP/1.1" 200 398 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+body {
+  launchDate: '2023-10-28T00:00:00.000Z',
+  mission: 'Hello New World_102',
+  rocket: 'Explorer IS1',
+  target: 'Kepler-296 A f'
+}
+::1 - - [28/Oct/2023:05:50:19 +0000] "POST /launches HTTP/1.1" 201 210 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:19 +0000] "GET /launches HTTP/1.1" 200 599 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+body {
+  launchDate: '2023-10-28T00:00:00.000Z',
+  mission: 'Hello New World_103',
+  rocket: 'Explorer IS1',
+  target: 'Kepler-296 A f'
+}
+::1 - - [28/Oct/2023:05:50:34 +0000] "POST /launches HTTP/1.1" 201 210 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:34 +0000] "GET /launches HTTP/1.1" 200 800 "http://localhost:5000/launch" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:40 +0000] "GET /upcoming HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:41 +0000] "GET /static/js/main.ce43dadc.js HTTP/1.1" 200 473761 "http://localhost:5000/upcoming" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:41 +0000] "GET /sound/click.mp3 HTTP/1.1" 200 2688 "http://localhost:5000/upcoming" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:41 +0000] "GET /sound/typing.mp3 HTTP/1.1" 200 5760 "http://localhost:5000/upcoming" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:41 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 200 5376 "http://localhost:5000/upcoming" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:41 +0000] "GET /sound/abort.mp3 HTTP/1.1" 200 11548 "http://localhost:5000/upcoming" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:41 +0000] "GET /sound/warning.mp3 HTTP/1.1" 200 28800 "http://localhost:5000/upcoming" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:41 +0000] "GET /sound/success.mp3 HTTP/1.1" 200 98497 "http://localhost:5000/upcoming" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:41 +0000] "GET /static/js/main.ce43dadc.js.map HTTP/1.1" 200 1674158 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:41 +0000] "GET /launches HTTP/1.1" 200 800 "http://localhost:5000/upcoming" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:41 +0000] "GET /planets HTTP/1.1" 200 4927 "http://localhost:5000/upcoming" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:41 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:5000/upcoming" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:41 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:5000/upcoming" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:41 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:5000/upcoming" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:41 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:5000/upcoming" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:41 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:5000/upcoming" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:46 +0000] "DELETE /launches/101 HTTP/1.1" 200 208 "http://localhost:5000/upcoming" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:46 +0000] "GET /launches HTTP/1.1" 200 802 "http://localhost:5000/upcoming" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:50 +0000] "GET /history HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:50 +0000] "GET /static/js/main.ce43dadc.js HTTP/1.1" 200 473761 "http://localhost:5000/history" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:50 +0000] "GET /sound/click.mp3 HTTP/1.1" 200 2688 "http://localhost:5000/history" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:50 +0000] "GET /sound/typing.mp3 HTTP/1.1" 200 5760 "http://localhost:5000/history" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:50 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 200 5376 "http://localhost:5000/history" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:50 +0000] "GET /sound/abort.mp3 HTTP/1.1" 200 11548 "http://localhost:5000/history" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:50 +0000] "GET /sound/warning.mp3 HTTP/1.1" 200 28800 "http://localhost:5000/history" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:50 +0000] "GET /sound/success.mp3 HTTP/1.1" 200 98497 "http://localhost:5000/history" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:50 +0000] "GET /static/js/main.ce43dadc.js.map HTTP/1.1" 200 1674158 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:50 +0000] "GET /launches HTTP/1.1" 200 802 "http://localhost:5000/history" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:50 +0000] "GET /planets HTTP/1.1" 200 4927 "http://localhost:5000/history" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:50 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:5000/history" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:50 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:5000/history" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:50 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:5000/history" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:50 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:5000/history" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"
+::1 - - [28/Oct/2023:05:50:50 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:5000/history" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 Edg/118.0.2088.69"

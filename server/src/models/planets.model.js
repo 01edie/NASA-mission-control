@@ -1,11 +1,12 @@
 const { parse } = require("csv-parse");
 const fs = require("fs");
 const path = require("path");
+const planetModel = require("./planets.mongo");
 
 const habitablePlanets = [];
 
 const dataPath = path.join(__dirname, "..", "..", "data", "kepler_data.csv");
-console.log(dataPath);
+// console.log(dataPath);
 
 function isHabitable(planet) {
   return (
@@ -19,31 +20,48 @@ function isHabitable(planet) {
   );
 }
 
+const addPlanet = async (planet) => {
+  try {
+    await planetModel.updateOne(
+      { keplerName: planet },
+      { keplerName: planet },
+      { upsert: true }
+    );
+  } catch (error) {
+    console.error(`failed to add planet -${planet}`)
+  }
+};
+
 const loadPlanetsData = () =>
   new Promise((resolve, reject) => {
     fs.createReadStream(dataPath)
       .pipe(parse({ comment: "#", columns: true }))
       .on("data", (chunk) => {
-        if (isHabitable(chunk)) habitablePlanets.push(chunk);
+        if (isHabitable(chunk)) {
+          addPlanet(chunk.kepler_name)
+        }
       })
       .on("error", (err) => {
         console.log(err);
         reject(err);
       })
-      .on("end", () => {
+      .on("end", async () => {
         console.log("..............................................");
         console.log("scanning complete");
         console.log("..............................................");
+        const totalPlanets = (await planetModel.find({})).length
         console.log(
-          `${habitablePlanets.length} potential habitable planets found!`
+          `${totalPlanets} potential habitable planets found!`
         );
         resolve();
       });
   });
 
-const getAllPlanets = () => habitablePlanets;
+const getAllPlanets =  () => {
+  return planetModel.find({},{'_id':0,'__v':0});
+};
 
 module.exports = {
   loadPlanetsData,
-  getAllPlanets
+  getAllPlanets,
 };
